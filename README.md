@@ -1,2 +1,10 @@
 # NicRSkinner.github.io
-Personal Github Page
+Personal Github Page - Future Home of Nick's Portfolio and Blog!
+
+My name is Nick Skinner, and I am a remote applications developer for embedded systems and robotics. I have over 3 years of experience working on designing electronic circuits and embedded software architecture. During the course of my work experience, I have also obtained a Bachelor’s of Science in Computer Science and an Associate’s degree in Electronics Design. Previous companies that I have worked for include Digi-Key Electronics, as an Applications Engineering Technician, and TEAM Industries, as a Software Engineering Intern. Working for these companies was both in-person as a full-time employee, as well as remote work.
+
+When working in a remote environment, I like to maintain constant communication with clients. Reviewing and rewriting requirements whenever necessary and verifying exactly what the client it looking for. Whenever there are ambiguous requirements, it is imperative that the customer be kept in the loop on exactly what I am working on and how much time it is going to take. If the requirements aren’t fully understood, it can waste time and money for both myself and the client.
+
+My primary work environment is embedded development with C,C++, and Python. While I primarily work on embedded Linux systems, such as the RaspberryPi and BeagleBone, I am experienced with developing and designing software supporting hardware for MicroChip PIC8 microcontrollers. While there are many different microcontrollers and manufacturers available, I am not afraid to work in an unknown environment and learn new technologies for whatever the client requires.
+
+The most recent project that I worked on is named EOS, featured on my personal GitHub page. EOS is a personal project that is implementing a RaspberryPi in ROS C++ and Python for robotics. This project aims at creating embedded software for a robotic platform capable of carrying many heavy objects over a long distance. The project is currently in the initial architecture stages, and currently motor driver communications and path planning the current implementation goal.
